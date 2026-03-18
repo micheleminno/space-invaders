@@ -6,7 +6,7 @@ public class Enemy extends Entity {
     private double speed;
 
     public Enemy(double x, double y, double speed) {
-        super(x, y, 70, 35);
+        super(x, y, 35, 35);
         this.speed = speed;
     }
 

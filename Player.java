@@ -8,8 +8,8 @@ public class Player extends Entity {
     private boolean moveRight;
 
     public Player(double x, double y) {
-        super(x, y, 50, 20);
-        this.speed = 6;
+        super(x, y, 100, 20);
+        this.speed = 10;
     }
 
     public void setMoveLeft(boolean value) {

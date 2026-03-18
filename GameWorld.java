@@ -145,7 +145,7 @@ public class GameWorld {
 
         if (gameOver) {
             gc.setFill(Color.ORANGE);
-            gc.fillText("GAME OVER", 350, 300);
+            gc.fillText("Hai perso ahahahahah", 350, 300);
         }
     }
 

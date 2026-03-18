@@ -1,5 +1,8 @@
 # iOS folder
 .DS_Store
 
+# VS Code files
+settings.json
+
 # Libraries
 lib/

@@ -1,3 +1,5 @@
 # iOS folder
-.DS_Storelib/
+.DS_Store
+
+# Libraries
 lib/
